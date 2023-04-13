@@ -1,1 +1,1 @@
-fix print val map
+Improve Coral Edge TPU guide (#8160)
