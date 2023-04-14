@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
