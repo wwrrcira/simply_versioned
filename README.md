@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Fix Yolo 8.0.206 scale bug (#7821)
