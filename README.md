@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+YOLOv8 INT8 TFLite Inference Example (#7317)
