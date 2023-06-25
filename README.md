@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
