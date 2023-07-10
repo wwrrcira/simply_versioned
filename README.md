@@ -1,1 +1,1 @@
-fix val each epoch
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
