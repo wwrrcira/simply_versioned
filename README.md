@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add ONNX Docs integrations page (#7802)
