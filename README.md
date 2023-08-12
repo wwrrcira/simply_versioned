@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
