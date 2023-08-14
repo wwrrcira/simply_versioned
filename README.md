@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
