@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
