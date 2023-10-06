@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
