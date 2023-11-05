@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
