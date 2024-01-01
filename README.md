@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
