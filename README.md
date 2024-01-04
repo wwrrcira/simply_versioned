@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix cmake requirements for ARM64 (#8589)
