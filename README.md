@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
