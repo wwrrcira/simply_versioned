@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
