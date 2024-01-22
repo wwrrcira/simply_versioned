@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
