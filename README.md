@@ -1,1 +1,1 @@
-fix predict with class filter
+Update the heatmap module code + docs (#7045)
