@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update docs building code (#7601)
