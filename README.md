@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+New HUB Cloud Training docs page (#8174)
