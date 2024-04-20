@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Resize angle, count, and stage on keypoint number change (#7598)
