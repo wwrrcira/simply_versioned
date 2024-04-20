@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Model typehints Docker fix (#8306)
