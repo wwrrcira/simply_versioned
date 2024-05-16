@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Merge pull request #22 from SkalskiP/patch-1
