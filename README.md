@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add PaddlePaddle Docs Integrations Page (#8858)
