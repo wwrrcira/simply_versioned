@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+fix for predicting with batch_size > 1 (#47)
