@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+fix yolo classify model loading error (#9196)
