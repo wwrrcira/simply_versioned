@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Update pyproject.toml and Docs (#7274)
