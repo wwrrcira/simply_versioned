@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
