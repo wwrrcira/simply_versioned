@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+OpenVino 2024.0.0 (#8726)
