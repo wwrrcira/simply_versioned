@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+OBB: update metrics (#7593)
