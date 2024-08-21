@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+YOLOv8 INT8 TFLite Inference Example (#7317)
