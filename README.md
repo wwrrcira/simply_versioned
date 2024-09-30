@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
