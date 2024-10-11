@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
