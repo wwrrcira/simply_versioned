@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
