@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add visuals in guides/distance-calculation.md (#7876)
